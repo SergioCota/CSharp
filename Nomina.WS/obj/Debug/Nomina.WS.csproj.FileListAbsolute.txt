@@ -1,0 +1,92 @@
+C:\Users\Clariti Cota\source\repos\Nomina\Nomina.WS\bin\Nomina.WS.dll.config
+C:\Users\Clariti Cota\source\repos\Nomina\Nomina.WS\bin\Nomina.WS.dll
+C:\Users\Clariti Cota\source\repos\Nomina\Nomina.WS\bin\Nomina.WS.pdb
+C:\Users\Clariti Cota\source\repos\Nomina\Nomina.WS\bin\roslyn\csc.exe
+C:\Users\Clariti Cota\source\repos\Nomina\Nomina.WS\bin\roslyn\csc.exe.config
+C:\Users\Clariti Cota\source\repos\Nomina\Nomina.WS\bin\roslyn\csc.rsp
+C:\Users\Clariti Cota\source\repos\Nomina\Nomina.WS\bin\roslyn\csi.exe
+C:\Users\Clariti Cota\source\repos\Nomina\Nomina.WS\bin\roslyn\csi.rsp
+C:\Users\Clariti Cota\source\repos\Nomina\Nomina.WS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Clariti Cota\source\repos\Nomina\Nomina.WS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Clariti Cota\source\repos\Nomina\Nomina.WS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Clariti Cota\source\repos\Nomina\Nomina.WS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Clariti Cota\source\repos\Nomina\Nomina.WS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Clariti Cota\source\repos\Nomina\Nomina.WS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Clariti Cota\source\repos\Nomina\Nomina.WS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Clariti Cota\source\repos\Nomina\Nomina.WS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Clariti Cota\source\repos\Nomina\Nomina.WS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Clariti Cota\source\repos\Nomina\Nomina.WS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Clariti Cota\source\repos\Nomina\Nomina.WS\bin\roslyn\System.AppContext.dll
+C:\Users\Clariti Cota\source\repos\Nomina\Nomina.WS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Clariti Cota\source\repos\Nomina\Nomina.WS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Clariti Cota\source\repos\Nomina\Nomina.WS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Clariti Cota\source\repos\Nomina\Nomina.WS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Clariti Cota\source\repos\Nomina\Nomina.WS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Clariti Cota\source\repos\Nomina\Nomina.WS\bin\roslyn\vbc.exe
+C:\Users\Clariti Cota\source\repos\Nomina\Nomina.WS\bin\roslyn\vbc.exe.config
+C:\Users\Clariti Cota\source\repos\Nomina\Nomina.WS\bin\roslyn\vbc.rsp
+C:\Users\Clariti Cota\source\repos\Nomina\Nomina.WS\bin\roslyn\VBCSCompiler.exe
+C:\Users\Clariti Cota\source\repos\Nomina\Nomina.WS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Clariti Cota\source\repos\Nomina\Nomina.WS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Clariti Cota\source\repos\Nomina\Nomina.WS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Clariti Cota\source\repos\Nomina\Nomina.WS\obj\Debug\Nomina.WS.csprojAssemblyReference.cache
+C:\Users\Clariti Cota\source\repos\Nomina\Nomina.WS\obj\Debug\Nomina.WS.csproj.CopyComplete
+C:\Users\Clariti Cota\source\repos\Nomina\Nomina.WS\obj\Debug\Nomina.WS.dll
+C:\Users\Clariti Cota\source\repos\Nomina\Nomina.WS\obj\Debug\Nomina.WS.pdb
+C:\Users\Clariti Cota\source\repos\Nomina\Nomina.WS\bin\Nomina.API.pdb
+C:\Users\Clariti Cota\source\repos\Nomina\Nomina.WS\bin\System.Net.Http.Formatting.dll
+C:\Users\Clariti Cota\source\repos\Nomina\Nomina.WS\bin\System.Web.Http.dll
+C:\Users\Clariti Cota\source\repos\Nomina\Nomina.WS\bin\System.Web.Http.WebHost.dll
+C:\Users\Clariti Cota\source\repos\Nomina\Nomina.WS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Clariti Cota\source\repos\Nomina\Nomina.WS\bin\System.Net.Http.Formatting.xml
+C:\Users\Clariti Cota\source\repos\Nomina\Nomina.WS\bin\System.Web.Http.xml
+C:\Users\Clariti Cota\source\repos\Nomina\Nomina.WS\bin\System.Web.Http.WebHost.xml
+C:\Users\Clariti Cota\source\repos\Nomina\Nomina.WS\bin\Microsoft.Web.Infrastructure.xml
+C:\Users\Clariti Cota\source\repos\Nomina\Nomina.WS\bin\Nomina.API.dll
+C:\Users\Clariti Cota\source\repos\Nomina\Nomina.WS\bin\BLToolkit.4.dll
+C:\Users\Clariti Cota\source\repos\Proyecto Nomina\Nomina\Nomina.WS\bin\Nomina.WS.dll.config
+C:\Users\Clariti Cota\source\repos\Proyecto Nomina\Nomina\Nomina.WS\bin\Nomina.WS.dll
+C:\Users\Clariti Cota\source\repos\Proyecto Nomina\Nomina\Nomina.WS\bin\Nomina.WS.pdb
+C:\Users\Clariti Cota\source\repos\Proyecto Nomina\Nomina\Nomina.WS\bin\roslyn\csc.exe
+C:\Users\Clariti Cota\source\repos\Proyecto Nomina\Nomina\Nomina.WS\bin\roslyn\csc.exe.config
+C:\Users\Clariti Cota\source\repos\Proyecto Nomina\Nomina\Nomina.WS\bin\roslyn\csc.rsp
+C:\Users\Clariti Cota\source\repos\Proyecto Nomina\Nomina\Nomina.WS\bin\roslyn\csi.exe
+C:\Users\Clariti Cota\source\repos\Proyecto Nomina\Nomina\Nomina.WS\bin\roslyn\csi.rsp
+C:\Users\Clariti Cota\source\repos\Proyecto Nomina\Nomina\Nomina.WS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Clariti Cota\source\repos\Proyecto Nomina\Nomina\Nomina.WS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Clariti Cota\source\repos\Proyecto Nomina\Nomina\Nomina.WS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Clariti Cota\source\repos\Proyecto Nomina\Nomina\Nomina.WS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Clariti Cota\source\repos\Proyecto Nomina\Nomina\Nomina.WS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Clariti Cota\source\repos\Proyecto Nomina\Nomina\Nomina.WS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Clariti Cota\source\repos\Proyecto Nomina\Nomina\Nomina.WS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Clariti Cota\source\repos\Proyecto Nomina\Nomina\Nomina.WS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Clariti Cota\source\repos\Proyecto Nomina\Nomina\Nomina.WS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Clariti Cota\source\repos\Proyecto Nomina\Nomina\Nomina.WS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Clariti Cota\source\repos\Proyecto Nomina\Nomina\Nomina.WS\bin\roslyn\System.AppContext.dll
+C:\Users\Clariti Cota\source\repos\Proyecto Nomina\Nomina\Nomina.WS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Clariti Cota\source\repos\Proyecto Nomina\Nomina\Nomina.WS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Clariti Cota\source\repos\Proyecto Nomina\Nomina\Nomina.WS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Clariti Cota\source\repos\Proyecto Nomina\Nomina\Nomina.WS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Clariti Cota\source\repos\Proyecto Nomina\Nomina\Nomina.WS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Clariti Cota\source\repos\Proyecto Nomina\Nomina\Nomina.WS\bin\roslyn\vbc.exe
+C:\Users\Clariti Cota\source\repos\Proyecto Nomina\Nomina\Nomina.WS\bin\roslyn\vbc.exe.config
+C:\Users\Clariti Cota\source\repos\Proyecto Nomina\Nomina\Nomina.WS\bin\roslyn\vbc.rsp
+C:\Users\Clariti Cota\source\repos\Proyecto Nomina\Nomina\Nomina.WS\bin\roslyn\VBCSCompiler.exe
+C:\Users\Clariti Cota\source\repos\Proyecto Nomina\Nomina\Nomina.WS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Clariti Cota\source\repos\Proyecto Nomina\Nomina\Nomina.WS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Clariti Cota\source\repos\Proyecto Nomina\Nomina\Nomina.WS\bin\Nomina.API.dll
+C:\Users\Clariti Cota\source\repos\Proyecto Nomina\Nomina\Nomina.WS\bin\System.Net.Http.Formatting.dll
+C:\Users\Clariti Cota\source\repos\Proyecto Nomina\Nomina\Nomina.WS\bin\System.Web.Http.dll
+C:\Users\Clariti Cota\source\repos\Proyecto Nomina\Nomina\Nomina.WS\bin\System.Web.Http.WebHost.dll
+C:\Users\Clariti Cota\source\repos\Proyecto Nomina\Nomina\Nomina.WS\bin\BLToolkit.4.dll
+C:\Users\Clariti Cota\source\repos\Proyecto Nomina\Nomina\Nomina.WS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Clariti Cota\source\repos\Proyecto Nomina\Nomina\Nomina.WS\bin\Nomina.API.pdb
+C:\Users\Clariti Cota\source\repos\Proyecto Nomina\Nomina\Nomina.WS\bin\System.Net.Http.Formatting.xml
+C:\Users\Clariti Cota\source\repos\Proyecto Nomina\Nomina\Nomina.WS\bin\System.Web.Http.xml
+C:\Users\Clariti Cota\source\repos\Proyecto Nomina\Nomina\Nomina.WS\bin\System.Web.Http.WebHost.xml
+C:\Users\Clariti Cota\source\repos\Proyecto Nomina\Nomina\Nomina.WS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Clariti Cota\source\repos\Proyecto Nomina\Nomina\Nomina.WS\bin\Microsoft.Web.Infrastructure.xml
+C:\Users\Clariti Cota\source\repos\Proyecto Nomina\Nomina\Nomina.WS\obj\Debug\Nomina.WS.csprojAssemblyReference.cache
+C:\Users\Clariti Cota\source\repos\Proyecto Nomina\Nomina\Nomina.WS\obj\Debug\Nomina.WS.csproj.CopyComplete
+C:\Users\Clariti Cota\source\repos\Proyecto Nomina\Nomina\Nomina.WS\obj\Debug\Nomina.WS.dll
+C:\Users\Clariti Cota\source\repos\Proyecto Nomina\Nomina\Nomina.WS\obj\Debug\Nomina.WS.pdb
