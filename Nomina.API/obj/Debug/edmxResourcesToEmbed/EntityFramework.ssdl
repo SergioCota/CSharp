@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="NominaModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Empleados">
+    <Key>
+      <PropertyRef Name="EmpleadoID" />
+    </Key>
+    <Property Name="EmpleadoID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Nombre" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="ApellidoPaterno" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="ApellidoMaterno" Type="varchar" MaxLength="50" />
+    <Property Name="FechaIngreso" Type="datetime" Nullable="false" />
+    <Property Name="Activo" Type="bit" />
+    <Property Name="SueldoBase" Type="decimal" Precision="18" Scale="2" Nullable="false" />
+    <Property Name="tipoEmpleadoID" Type="int" Nullable="false" />
+    <Property Name="Email" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Password" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="IngresoDeducciones">
+    <Key>
+      <PropertyRef Name="IngresoDeducciones" />
+    </Key>
+    <Property Name="IngresoDeducciones" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="EmpleadoID" Type="int" Nullable="false" />
+    <Property Name="Fecha" Type="datetime" Nullable="false" />
+    <Property Name="TipoOperacionID" Type="int" Nullable="false" />
+    <Property Name="Descripcion" Type="varchar" MaxLength="100" />
+  </EntityType>
+  <EntityType Name="TipoEmpleado">
+    <Key>
+      <PropertyRef Name="tipoEmpleadoID" />
+    </Key>
+    <Property Name="tipoEmpleadoID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Descripcion" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="TipoOperacion">
+    <Key>
+      <PropertyRef Name="TipoOperacionID" />
+    </Key>
+    <Property Name="TipoOperacionID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Descripcion" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <Association Name="FK_Empleados_tipoEmpleado">
+    <End Role="TipoEmpleado" Type="Self.TipoEmpleado" Multiplicity="1" />
+    <End Role="Empleados" Type="Self.Empleados" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TipoEmpleado">
+        <PropertyRef Name="tipoEmpleadoID" />
+      </Principal>
+      <Dependent Role="Empleados">
+        <PropertyRef Name="tipoEmpleadoID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_IngresoDeducciones_TipoOperacion">
+    <End Role="TipoOperacion" Type="Self.TipoOperacion" Multiplicity="1" />
+    <End Role="IngresoDeducciones" Type="Self.IngresoDeducciones" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TipoOperacion">
+        <PropertyRef Name="TipoOperacionID" />
+      </Principal>
+      <Dependent Role="IngresoDeducciones">
+        <PropertyRef Name="TipoOperacionID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="NominaModelStoreContainer">
+    <EntitySet Name="Empleados" EntityType="Self.Empleados" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="IngresoDeducciones" EntityType="Self.IngresoDeducciones" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TipoEmpleado" EntityType="Self.TipoEmpleado" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TipoOperacion" EntityType="Self.TipoOperacion" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Empleados_tipoEmpleado" Association="Self.FK_Empleados_tipoEmpleado">
+      <End Role="TipoEmpleado" EntitySet="TipoEmpleado" />
+      <End Role="Empleados" EntitySet="Empleados" />
+    </AssociationSet>
+    <AssociationSet Name="FK_IngresoDeducciones_TipoOperacion" Association="Self.FK_IngresoDeducciones_TipoOperacion">
+      <End Role="TipoOperacion" EntitySet="TipoOperacion" />
+      <End Role="IngresoDeducciones" EntitySet="IngresoDeducciones" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
